@@ -1,0 +1,30 @@
+body{
+    background: #767DE4;
+}
+
+.text{
+    text-align: right;
+}
+
+h1{
+    font-size: 4em;
+}
+
+tr > td{
+    padding: 1em;
+    font-size: 2em;
+
+}
+
+.panel{
+    background-color: whitesmoke;
+    padding: 0.5em;
+    border:0.6em solid black;
+    margin: 10px auto;
+    width: 80%;
+    box-shadow: 2px 2px 3px #928a926e;
+}
+
+.informacion{
+    margin: 10px;
+}
